@@ -1,6 +1,6 @@
 <template>
   <div class="signUp">
-    <button> Sign Up </button>
+    <button v-on:click="signUpForm"> Sign Up </button>
     
   </div>
 </template>

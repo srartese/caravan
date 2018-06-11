@@ -1,7 +1,7 @@
 <template>
   <div class="title">
     <h1> Caravan </h1>
-    
+    <h3> Make traveling together, easier </h3>
   </div>
 </template>
 
